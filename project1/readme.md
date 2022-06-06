@@ -1,4 +1,4 @@
-Project 1
+# Web Sockets and Web Servers
 
 - In this project, we build our own web server from scratch using low-level socket module in python
 - Project was subdivided into four subparts.
