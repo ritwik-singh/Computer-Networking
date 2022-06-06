@@ -44,4 +44,7 @@ python3 sim.py LINK_STATE [eventfile]
 ```
 
 ## Distance Vector Algorithm
+
+![DV](DV.png)
+
 ## Link State Algorithm
