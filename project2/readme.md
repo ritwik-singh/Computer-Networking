@@ -1,3 +1,6 @@
+
+# TCP
+
 - We have designed a reliable streaming transport protocol on top of UDP. We have built a simplified version of TCP.
 - Firstly, we built a streamer in which we chunked the data and sent them in multiple packets.
 - Then we added reordering in the steamer by adding sequence numbers and a receive buffer.
