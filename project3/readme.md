@@ -48,3 +48,5 @@ python3 sim.py LINK_STATE [eventfile]
 ![DV](DV.png)
 
 ## Link State Algorithm
+
+![LS](LS.png)
