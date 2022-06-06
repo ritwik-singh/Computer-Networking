@@ -8,6 +8,22 @@ In this project we wrote a tool for network exploration and security auditing. T
 2. How to build a python tool that uses command-line utilities
 3. How to desgin a software and how to implement complex set of interralted tasks.
 
+## Running the project
+
+To run the project run the following commands:
+
+1. Run Scanner to scan all the attributes and save it in json file
+
+   ```
+   python scan.py test_websites.txt out.json
+   ```
+   
+2. Run Report genrator to scan all the collected information and store it in a tabular and readable form.
+
+   ```
+   python report.py out.json report.txt
+   ```
+
 ## Report
 
 The report contained the following attributes of a domain:
